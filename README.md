@@ -1,14 +1,16 @@
-<h2 align="left">Hi 👋! I'm Vyshnav Pradeep, an AI and DS Engineer</h2>
+<h2 align="left">Hi 👋! I'm Vyshnav Pradeep — AI & Data Science Enthusiast</h2>
 
 ###
 
 <p align="left">
-🔭 I’m currently working on <strong>Agentic AI</strong><br>
-🌱 I’m currently diving deep into <strong>Deep Learning, Neural Networks, Reinforcement Learning</strong> and <strong>Supervised Learning</strong><br>
-👨‍💻 My work is available at <a href="https://github.com/VYSHNAVPRADEEP2004" target="_blank">GitHub</a><br>
-💬 Ask me about <strong>Artificial Intelligence, Python, or Neural Networks</strong><br>
-📫 How to reach me: vyshnavpradeep2004@gmail.com<br>
-📄 Know more about my professional journey: <a href="https://www.linkedin.com/in/vyshnavpradeep" target="_blank">LinkedIn</a>
+🚀 Passionate about Artificial Intelligence and Data Science<br>
+🐍 Proficient in Python and experienced with frameworks like <strong>TensorFlow, PyTorch, Scikit-learn, Keras, MobileNetV2</strong><br>
+🖥️ Skilled in programming languages including <strong>C, C++, Java, and JavaScript</strong><br>
+🧠 Currently learning <strong>Dataset Generation, Generative Adversarial Networks (GANs), Deep Learning, and Neural Networks</strong><br>
+🔭 I’m actively working on <strong>Agentic AI</strong><br>
+👨‍💻 My projects and code are available on <a href="https://github.com/VYSHNAVPRADEEP2004" target="_blank">GitHub</a><br>
+📫 Reach me at: <a href="mailto:vyshnavpradeep2004@gmail.com">vyshnavpradeep2004@gmail.com</a><br>
+🔗 Connect with me on <a href="https://www.linkedin.com/in/vyshnavpradeep" target="_blank">LinkedIn</a>
 </p>
 
 ###
@@ -21,19 +23,24 @@
 
 ###
 
+<h3 align="left">🧰 Languages and Tools</h3>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" alt="Keras" />
 </div>
 
 ###
+
+<h3 align="left">📬 Contact Me</h3>
 
 <div align="left">
   <a href="mailto:vyshnavpradeep2004@gmail.com" target="_blank">
@@ -57,5 +64,4 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VYSHNAVPRADEEP2004&theme=react-dark&radius=16&area=true" height="300" />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VYSHNAVPRADEEP2004&theme=react-dark&ra
