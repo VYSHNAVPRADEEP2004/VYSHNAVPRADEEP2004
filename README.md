@@ -1,67 +1,56 @@
-<h2 align="left">Hi 👋! I'm Vyshnav Pradeep — AI & Data Science Enthusiast</h2>
+<h1 align="center">Hi 👋, I'm Vyshnav Pradeep</h1>
+<h3 align="center">AI and Data Science Enthusiast | Pythonista | Deep Learning Explorer</h3>
 
-###
+---
 
-<p align="left">
-🚀 Passionate about Artificial Intelligence and Data Science<br>
-🐍 Proficient in Python and experienced with frameworks like <strong>TensorFlow, PyTorch, Scikit-learn, Keras, MobileNetV2</strong><br>
-🖥️ Skilled in programming languages including <strong>C, C++, Java, and JavaScript</strong><br>
-🧠 Currently learning <strong>Dataset Generation, Generative Adversarial Networks (GANs), Deep Learning, and Neural Networks</strong><br>
-🔭 I’m actively working on <strong>Agentic AI</strong><br>
-👨‍💻 My projects and code are available on <a href="https://github.com/VYSHNAVPRADEEP2004" target="_blank">GitHub</a><br>
-📫 Reach me at: <a href="mailto:vyshnavpradeep2004@gmail.com">vyshnavpradeep2004@gmail.com</a><br>
-🔗 Connect with me on <a href="https://www.linkedin.com/in/vyshnavpradeep" target="_blank">LinkedIn</a>
+<img align="right" alt="AI illustration" src="https://raw.githubusercontent.com/VYSHNAVPRADEEP2004/VYSHNAVPRADEEP2004/main/ai_banner.gif" width="400"/>
+
+🌟 Welcome to my GitHub!  
+I'm a passionate **AI and Data Science enthusiast** who loves building intelligent systems and learning how machines can think, learn, and evolve. With strong expertise in **Python** and its powerful ML/DL frameworks, I spend most of my time experimenting with models and understanding what lies under the hood of intelligent algorithms.
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 AI & Data Science Engineer
+- 💻 Currently diving deep into:
+  - **Neural Networks**
+  - **Deep Learning**
+  - **GANs (Generative Adversarial Networks)**
+  - **Dataset Generation & Processing**
+- 🧠 Strong command over:
+  - `Python`, `C`, `C++`, `Java`, `JavaScript`
+- 🧰 Frameworks I use:
+  - `TensorFlow`, `PyTorch`, `Keras`, `scikit-learn`, `MobileNetV2`
+- 🧪 Love turning **raw data** into **actionable insights**
+
+---
+
+### 🔧 Tech Stack
+
+- 💡 **Languages:** Python, C++, Java, JavaScript  
+- 🧠 **ML/DL:** TensorFlow, PyTorch, Keras, scikit-learn, MobileNetV2  
+- 🛠️ **Tools & IDEs:** Jupyter, VSCode, Colab, Git  
+- 🧹 **Current Focus:** Dataset creation, GANs, CNNs, Model Optimization  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VYSHNAVPRADEEP2004&show_icons=true&theme=radical" alt="Vyshnav's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VYSHNAVPRADEEP2004&theme=radical" alt="GitHub Streak"/>
 </p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VYSHNAVPRADEEP2004&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=VYSHNAVPRADEEP2004&theme=radical&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VYSHNAVPRADEEP2004&layout=compact&theme=radical&langs_count=6&hide_border=false" height="150" />
-</div>
+### 🔗 Connect With Me
 
-###
+- 💼 [LinkedIn](https://www.linkedin.com/in/vyshnav-pradeep/)
+- 💻 [GitHub](https://github.com/VYSHNAVPRADEEP2004)
+- 📫 Reach me at: `vyshnavpradeep2004@gmail.com`
 
-<h3 align="left">🧰 Languages and Tools</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" alt="Keras" />
-</div>
-
-###
-
-<h3 align="left">📬 Contact Me</h3>
-
-<div align="left">
-  <a href="mailto:vyshnavpradeep2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/vyshnavpradeep" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</div>
-
-###
-
-![Snake animation](https://github.com/VYSHNAVPRADEEP2004/VYSHNAVPRADEEP2004/blob/output/snake.svg)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/VYSHNAVPRADEEP2004/count.svg?" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VYSHNAVPRADEEP2004&theme=react-dark&ra
+_🚀 Always learning, always building — let’s innovate together!_
